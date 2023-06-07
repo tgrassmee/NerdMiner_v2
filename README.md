@@ -3,7 +3,9 @@
 
 This is a **free and open source project** that let you try to reach a bitcoin block with a small piece of hardware. 
 
-The main aim of this project is to let you **learn more about minery** and to have a beautiful piece of hardware in your desktop.
+We made it possible to mine BTC for everyone.
+
+You can purchase a ready-made Nerdminer at https://bitcointool21.com/
 
 
 Original project https://github.com/valerio-vaccaro/HAN
